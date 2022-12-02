@@ -1,0 +1,53 @@
+{"level":30,"time":"2022-12-02T07:30:50.203Z","pid":264,"hostname":"HPLT13","msg":"Listening on 60321"}
+{"level":30,"time":"2022-12-02T07:30:50.626Z","pid":264,"hostname":"HPLT13","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:30:50.627Z","pid":264,"hostname":"HPLT13","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:30:50.632Z","pid":264,"hostname":"HPLT13","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-12-02T07:30:51.451Z","pid":264,"hostname":"HPLT13","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-12-02T07:30:51.455Z","pid":264,"hostname":"HPLT13","msg":"Start of node method newContext"}
+{"level":30,"time":"2022-12-02T07:30:51.456Z","pid":264,"hostname":"HPLT13","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-12-02T07:30:51.456Z","pid":264,"hostname":"HPLT13","msg":"Trace file: "}
+{"level":30,"time":"2022-12-02T07:30:51.508Z","pid":264,"hostname":"HPLT13","msg":"Changed active context"}
+{"level":30,"time":"2022-12-02T07:30:51.509Z","pid":264,"hostname":"HPLT13","msg":"End of node method newContext"}
+{"level":30,"time":"2022-12-02T07:30:51.512Z","pid":264,"hostname":"HPLT13","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-12-02T07:30:51.512Z","pid":264,"hostname":"HPLT13","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-12-02T07:30:51.887Z","pid":264,"hostname":"HPLT13","msg":"Video path: undefined"}
+{"level":30,"time":"2022-12-02T07:30:51.887Z","pid":264,"hostname":"HPLT13","msg":"Changed active page"}
+{"level":30,"time":"2022-12-02T07:30:53.434Z","pid":264,"hostname":"HPLT13","msg":"End of node method newPage"}
+{"level":30,"time":"2022-12-02T07:30:53.439Z","pid":264,"hostname":"HPLT13","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:30:53.457Z","pid":264,"hostname":"HPLT13","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:30:53.466Z","pid":264,"hostname":"HPLT13","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-12-02T07:30:53.466Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with id=game-input in page."}
+{"level":30,"time":"2022-12-02T07:30:53.570Z","pid":264,"hostname":"HPLT13","msg":"End of node method fillText"}
+{"level":30,"time":"2022-12-02T07:30:53.574Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:30:53.576Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with \"Enter\" in page."}
+{"level":30,"time":"2022-12-02T07:30:53.709Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:30:53.713Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:30:53.713Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with \"Spin!\" in page."}
+{"level":30,"time":"2022-12-02T07:31:00.995Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:01.001Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:31:01.001Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with \"Ok, go!\" in page."}
+{"level":30,"time":"2022-12-02T07:31:03.083Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:03.088Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:31:03.088Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with css=.jbIriB in page."}
+{"level":30,"time":"2022-12-02T07:31:21.654Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:21.658Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:31:21.658Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with \"Next\" in page."}
+{"level":30,"time":"2022-12-02T07:31:21.755Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:21.759Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:31:21.759Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with \"Next\" in page."}
+{"level":30,"time":"2022-12-02T07:31:21.876Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:21.881Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:31:21.881Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with css=.bCSGHb in page."}
+{"level":30,"time":"2022-12-02T07:31:26.963Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:26.966Z","pid":264,"hostname":"HPLT13","msg":"Start of node method click"}
+{"level":30,"time":"2022-12-02T07:31:26.967Z","pid":264,"hostname":"HPLT13","msg":"Strict mode is enabled, find Locator with \"Next\" in page."}
+{"level":30,"time":"2022-12-02T07:31:27.093Z","pid":264,"hostname":"HPLT13","msg":"End of node method click"}
+{"level":30,"time":"2022-12-02T07:31:37.100Z","pid":264,"hostname":"HPLT13","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:31:37.102Z","pid":264,"hostname":"HPLT13","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:31:37.108Z","pid":264,"hostname":"HPLT13","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2022-12-02T07:31:37.164Z","pid":264,"hostname":"HPLT13","msg":"Removed page=ebacdda4-3e05-437b-b326-92336881fe17 from context=2ded30f5-fe4d-4f7e-b2c5-5ce5947b5853 page stack"}
+{"level":30,"time":"2022-12-02T07:31:37.463Z","pid":264,"hostname":"HPLT13","msg":"End of node method closeBrowser"}
+{"level":30,"time":"2022-12-02T07:31:37.466Z","pid":264,"hostname":"HPLT13","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:31:37.466Z","pid":264,"hostname":"HPLT13","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-02T07:31:37.515Z","pid":264,"hostname":"HPLT13","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-12-02T07:31:37.515Z","pid":264,"hostname":"HPLT13","msg":"End of node method closeAllBrowsers"}
