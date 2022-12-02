@@ -8,8 +8,8 @@ Library              SeleniumLibrary
 
 KahootLogIn
     Click Element  id=menu-item-92366 
-    Input Text  id=username  masysma_headpower
-    Input Text  id=password  trial-GREEN-12
+    Input Text  id=username  
+    Input Text  id=password  
     Click Button  id=login-submit-btn
     Wait Until Page Contains  masysma_headpower
 
